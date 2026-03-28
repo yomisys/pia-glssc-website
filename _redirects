@@ -1,0 +1,3 @@
+# Cloudflare Pages redirect rules
+# Serve index.html for any unmatched route (404 fallback)
+/*    /index.html    404
